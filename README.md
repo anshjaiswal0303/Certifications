@@ -20,8 +20,8 @@ It includes certifications and credentials related to areas such as:
 -  Courses completion
 
 > This repository will be continuously updated as I complete new courses, certifications, and professional learning programs.
->
->## 📄 Disclaimer
+
+## 📄 Disclaimer
 
 The certificates available in this repository are shared for portfolio and professional documentation purposes.
 All certificates and credentials remain the property of their respective issuing organizations.
